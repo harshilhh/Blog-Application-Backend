@@ -1,0 +1,36 @@
+# Python bytecode files
+*.py[cod]
+__pycache__/
+
+
+# Flask environment variables
+*.env
+
+# Flask config
+config.py
+
+# Python virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# PyCharm project files
+.idea/
+
+# VSCode project files
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+
